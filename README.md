@@ -22,7 +22,7 @@ Implement HMM with second-order dependencies.
  
 ## Part 5 (Design Challenge)
 
-Implement Structured perceptron. Please find more information in the report.
+Implement Structured perceptron. Please find more information in ML_Report.pdf.
 
 
 
